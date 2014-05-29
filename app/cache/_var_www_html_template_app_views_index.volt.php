@@ -420,7 +420,7 @@
 
                  <!-- Main content -->
                 <section class="content">
-                	{{ content() }}
+                	<?php echo $this->getContent(); ?>
                 </section><!-- /.content -->
             </aside><!-- /.right-side -->
         </div><!-- ./wrapper -->
