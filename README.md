@@ -11,3 +11,6 @@ This repository provides a clean and structured foundation for building scalable
 * Ready-to-extend backend interface
 
 Designed to help developers bootstrap administrative panels and enterprise web solutions quickly, while maintaining clean architecture and best practices.
+
+
+...
